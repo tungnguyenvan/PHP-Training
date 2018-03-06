@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+div.content{
+  width: 800px;
+  height: auto;
+  border: 2px solid #0cc;
+  margin: 20px auto;
+  padding: 20px;
+}
+div.content div{
+
+  border: 1px solid #0cc;
+  padding: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+div.content div p{
+  font-weight: bold;
+
+}
+div.content div p span{
+  font-style: inherit;
+  font-weight: normal;
+}

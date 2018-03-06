@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.content{
+  margin: 20px auto;
+  width: 600px;
+  border: 1px solid #999;
+  padding: 10px;
+}
+.h1{
+  color: red;
+  text-align: center;
+}
