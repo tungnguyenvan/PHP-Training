@@ -12,6 +12,7 @@
           [1] => Item1
       )
  */
+
   foreach ($courses as $key => $value) {
       echo $key . " : " . $value . "<br/>";
   }
